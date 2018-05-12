@@ -1,5 +1,8 @@
 _repo: In-the-Fourth-Year--Anticipations-of-a-World-Peace_10291
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -13,6 +16,8 @@ description: "In the Fourth Year is a collection H.G. Wells assembled in the spr
   \ of 1918 from essays he had recently published discussing the problem of establishing\
   \ lasting peace when World War I ended. It is mostly devoted to plans for the League\
   \ of Nations and the discussion of post-war politics.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10291#In-the-Fourth-Year--Anticipations-of-a-World-Peace
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
